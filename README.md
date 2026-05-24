@@ -28,8 +28,7 @@ value transferred (ETH), and average gas price over 30 days.
 TASK 2...Whale Wallet Tier Segmentation: Categorize active addresses by volume: 
 Whale (>= 1k ETH), Shark (100-999), Fish (< 100). 
 
-TASK 3...Daily Top-Value Transfers: For each day of a chosen 
-week, isolate the top 5 largest value transactions. 
+TASK 3...Daily Top-Value Transfers: For each day of a chosen week, isolate the top 5 largest value transactions. 
 
 TASK 4...Rolling Cost Forecast: 
 Calculate a 7-day moving average of gas prices to identify cost-efficient windows.
@@ -60,7 +59,7 @@ TASK 2...Geographic Price Variance: Find avg payments for top 5
 procedures across US States. Rank states by cost. 
 
 TASK 3...Statistical Outlier Detection: Identify providers charging 
-> 2 standard deviations above the national average.
+more than 2 standard deviations above the national average.
 
 TASK 4....Cross-Domain Analysis: Join inpatient data with Part_d_prescriber data to evaluate regional cost correlations. 
 Direct Link: https://console.cloud.google.com/bigquery?p=bigquery-public
