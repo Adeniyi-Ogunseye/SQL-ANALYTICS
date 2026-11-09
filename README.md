@@ -66,6 +66,9 @@ Direct Link: https://console.cloud.google.com/bigquery?p=bigquery-public
 data&d=medicare&page=dataset
 
 
+Screenshot
+<img width="1366" height="768" alt="project-2" src="https://github.com/user-attachments/assets/23763cf7-1f0f-479c-9d0b-89bdb20b474c" />
+
 
 
 
