@@ -68,5 +68,6 @@ data&d=medicare&page=dataset
 
 
 Query Screenshot
-<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/6386f9ca-b18b-4898-bcc1-89c541d7c94b" />
+<img width="1366" height="768" alt="Dashboard SQL" src="https://github.com/user-attachments/assets/48b194bd-1152-4e98-aa64-8d0c06450194" />
+
 
