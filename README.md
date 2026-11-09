@@ -64,3 +64,9 @@ more than 2 standard deviations above the national average.
 TASK 4....Cross-Domain Analysis: Join inpatient data with Part_d_prescriber data to evaluate regional cost correlations. 
 Direct Link: https://console.cloud.google.com/bigquery?p=bigquery-public
 data&d=medicare&page=dataset
+
+
+
+Query Screenshot
+<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/6386f9ca-b18b-4898-bcc1-89c541d7c94b" />
+
